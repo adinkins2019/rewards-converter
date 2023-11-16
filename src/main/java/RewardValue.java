@@ -2,7 +2,7 @@
 
 public class RewardValue {
     public Double getMilesValue() {
-        return cashValue.doubleValue() /0.0035;
+        return cashValue /0.0035;
     }
 
     public double getCashValue() {
