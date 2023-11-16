@@ -1,4 +1,4 @@
-import java.math.BigDecimal;
+
 
 public class RewardValue {
     public Double getMilesValue() {
